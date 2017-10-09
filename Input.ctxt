@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ readString()
+comment0.text=\ Reads\ a\ string\ from\ the\ console.\n@return\ string\ entered\ by\ the\ user
+comment1.params=prompt
+comment1.target=java.lang.String\ readString(java.lang.String)
+comment1.text=\ Reads\ a\ string\ from\ the\ console.\n\ \ \ \ \ \ @param\ prompt\ text\ to\ written\ before\ the\ input\n@return\ string\ entered\ by\ the\ user
+comment2.params=
+comment2.target=int\ readInt()
+comment2.text=\ Reads\ an\ integer\ number\ from\ the\ console.\n@return\ number\ entered\ by\ the\ user
+comment3.params=prompt
+comment3.target=int\ readInt(java.lang.String)
+comment3.text=\ Reads\ an\ integer\ number\ from\ the\ console.\n\ \ \ \ \ \ @param\ prompt\ text\ to\ written\ before\ the\ input\n@return\ number\ entered\ by\ the\ user
+comment4.params=
+comment4.target=double\ readDouble()
+comment4.text=\ Reads\ a\ double\ number\ from\ the\ console.\n@return\ number\ entered\ by\ the\ user
+comment5.params=prompt
+comment5.target=double\ readDouble(java.lang.String)
+comment5.text=\ Reads\ a\ double\ number\ from\ the\ console.\n\ \ \ \ \ \ @param\ prompt\ text\ to\ written\ before\ the\ input\n@return\ number\ entered\ by\ the\ user
+numComments=6
